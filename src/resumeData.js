@@ -1,10 +1,10 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://hudnellmarcus.github.io/",
     "name": "Marcus Hudnell",
     "role": "Full-Stack Software Developer",
     "linkedinId":"",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am full-stack software engineer that prefers to work in the backend. I've been a working professional for 10+ years and in my free time I love to make music. I am constantly amazed at the creative and critical thinking overlap between creating music and software development. I aspire to write clean, maintainable and scalable code and hope to be an asset to your team!",
+    "roleDescription": "I am full-stack software engineer that prefers to work in the backend. I've been a working professional for 10+ years and in my free time I love to make music. I aspire to write clean, maintainable and scalable code and hope to be an asset to your team!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,23 +17,22 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am full-stack software developer that prefers to work in the backend. I've been a working professional for 10+ years and in my free time I love to make music. I am constantly amazed at the creative and critical thinking overlap between creating music and software development. I'm not afraid of any challenge as I truly believe that diamonds are made under the greatest pressure.",
+    "aboutme": "I am constantly amazed at the creative and critical thinking overlap between creating music and software development. I'm not afraid of any challenge as I truly believe that diamonds are made under the greatest pressure.",
     "address":"Los Angeles, CA",
-    "website":"https://rbhatia46.github.io",
+    "website":"hudnell.marcus@gmail.com",
+    "phone":"561.389.6421",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Colgate University",
+        "specialization":"Liberal Arts",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2011",
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"General Assembly",
+        "specialization":"Software Engineering Certificate",
+        "MonthOfPassing":"Jul",
+        "YearOfPassing":"2022",
       }
     ],
     "work":[
@@ -55,35 +54,38 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"images/icons/icons8-javascript-50.png"
       },
       {
-        "skillname":"CSS"
+        "skillname":"images/icons/icons8-react-100.png"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"images/icons/icons8-c++-50.png"
+      },
+      {
+        "skillname":"images/icons/icons8-firebase-96.png"
       }
     ],
     "portfolio":[
       {
         "name":"Oddsmakers",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"webapp",
+        "imgurl":"images/oddsmakers.png"
       },
       {
         "name":"TeeTime",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "description":"webapp",
+        "imgurl":"images/TeeTime.png"
       },
       {
         "name":"Festivalist",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "description":"webapp",  
+        "imgurl":"images/festivalist.png"
       },
       {
-        "name":"The Spirit Within",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Step-Sequencer",
+        "description":"webapp",
+        "imgurl":"images/step_sequencer.png"
       }
     ],
   }
