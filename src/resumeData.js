@@ -75,7 +75,8 @@ let resumeData = {
       {
         "name":"TeeTime",
         "description":"webapp",
-        "imgurl":"images/TeeTime.png"
+        "imgurl":"images/TeeTime.png",
+        "url":"https://hudnellmarcus.github.io/TeeTime-front/"
       },
       {
         "name":"Festivalist",
