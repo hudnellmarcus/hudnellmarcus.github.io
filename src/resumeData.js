@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full-Stack Software Developer",
     "linkedinId":"",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am full-stack software engineer that prefers to work in the backend. I've been a working professional for 10+ years and in my free time I love to make music. I aspire to write clean, maintainable and scalable code and hope to be an asset to your team!",
+    "roleDescription": "As a driven and detail-oriented software engineer with experience in both front-end and back-end technologies, I am passionate about creating innovative solutions that help businesses thrive. With a solid foundation in programming fundamentals and a natural ability to problem-solve, I strive to stay up-to-date on the latest industry trends and technologies to help clients achieve their goals. I am a collaborative team player with excellent communication skills, and I approach each project with a strong sense of ownership and a dedication to quality.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme": "I am constantly amazed at the creative and critical thinking overlap between creating music and software development. I'm not afraid of any challenge as I truly believe that diamonds are made under the greatest pressure.",
+    "aboutme": "Beyond professional work, I am  also a musician who loves to explore new sounds and create original music in my spare time. My passion for music inspires my work in technology, encouraging me to think creatively and seek innovative solutions to every problem. I am constantly amazed at the creative and critical thinking overlap between creating music and software development. I'm not afraid of any challenge as I truly believe that diamonds are made under the greatest pressure.",
     "address":"Los Angeles, CA",
     "website":"hudnell.marcus@gmail.com",
     "phone":"561.389.6421",
