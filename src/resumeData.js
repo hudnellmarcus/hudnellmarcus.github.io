@@ -81,7 +81,7 @@ let resumeData = {
       {
         "name":"Festivalist",
         "description":"webapp",  
-        "imgurl":"images/festivalist.png"
+        "imgurl":"images/Festivalist.png"
       },
       {
         "name":"Step-Sequencer",
