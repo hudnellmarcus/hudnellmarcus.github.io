@@ -86,7 +86,8 @@ let resumeData = {
       {
         "name":"Step-Sequencer",
         "description":"webapp",
-        "imgurl":"images/step_sequencer.png"
+        "imgurl":"images/step_sequencer.png",
+        "url":"https://hudnellmarcus.github.io/Step-Sequencer-Demo/"
       }
     ],
   }
