@@ -67,6 +67,13 @@ let resumeData = {
       }
     ],
     "portfolio":[
+      {
+        "name":"Full Stack Streamer",
+        "description":"webapp",
+        "imgurl":"images/full_stack_streamer.png",
+        "url": "https://full-stack-spotify.vercel.app/",
+        "github": "https://github.com/hudnellmarcus/full-stack-spotify"
+      },
 
       {
         "name":"Spotify Clone",
@@ -84,13 +91,6 @@ let resumeData = {
        "github": "https://github.com/hudnellmarcus/Step-Sequencer-Demo"
       },
 
-      {
-        "name":"Oddsmakers",
-        "description":"webapp",
-        "imgurl":"images/oddsmakers.png",
-        "url": "https://hudnellmarcus.github.io/OddsMakers-/",
-        "github": "https://github.com/hudnellmarcus/OddsMakers-"
-      },
       {
         "name":"TeeTime",
         "description":"webapp",
