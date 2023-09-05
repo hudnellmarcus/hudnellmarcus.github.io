@@ -24,15 +24,11 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"Colgate University",
-        "specialization":"Liberal Arts",
-        "MonthOfPassing":"May",
-        "YearOfPassing":"2011",
+        "specialization":"Geography",
       },
       {
         "UniversityName":"General Assembly",
         "specialization":"Software Engineering Certificate",
-        "MonthOfPassing":"Jul",
-        "YearOfPassing":"2022",
       }
     ],
     "work":[
@@ -69,7 +65,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Full Stack Streamer",
-        "description":"webapp",
+        "description":"Full Stack Streaming App employing Typescript, Next.js, React, Tailwind, Supabase and PostgreSQL. The app boasts a responsive and dynamic interface resembling Spotify's design. Standout features encompass song and image uploads, a fully operational player component with audio playback, and a playlist/liked songs system.",
         "imgurl":"images/full_stack_streamer.png",
         "url": "https://full-stack-spotify.vercel.app/",
         "github": "https://github.com/hudnellmarcus/full-stack-spotify"
@@ -77,7 +73,7 @@ let resumeData = {
 
       {
         "name":"Spotify Clone",
-        "description":"webapp",  
+        "description":"Spotify clone by integrating the Spotify API, React web framework, CSS, and Material UI for frontend aesthetics. The app replicates Spotify's features, encompassing user authentication, search and browse capabilities, playlist creation, management, and playback controls and showcases music data such as album covers, artist info, and track details.",  
         "imgurl":"images/spotify.png",
         "url": "https://hudnellmarcus.github.io/spotify_clone/",
         "github": "https://github.com/hudnellmarcus/spotify_clone"
@@ -85,7 +81,7 @@ let resumeData = {
 
       {
         "name":"Step-Sequencer",
-        "description":"webapp",
+        "description":"A fully functional step-sequencer developed with Javascript, HTML and CSS. This application utilizes the 'web audio API' for sound playback and contains custom wavetables and sounds as well as allowing the user to choose the tempo and upload samples",
         "imgurl":"images/step_sequencer.png",
        "url": "https://hudnellmarcus.github.io/Step-Sequencer-Demo/",
        "github": "https://github.com/hudnellmarcus/Step-Sequencer-Demo"
@@ -93,7 +89,7 @@ let resumeData = {
 
       {
         "name":"TeeTime",
-        "description":"webapp",
+        "description":"My first project utilizing React and the MongoDB database in which users can log in and store/view their tee times at various courses. Meant as a way for golfers to keep track of their various tee-times across their schedule.",
         "imgurl":"images/TeeTime.png",
         "github": "https://github.com/hudnellmarcus/TeeTime-front"
       },
